@@ -8,7 +8,7 @@ public class FindEvenOrOdd {
     public static void main(String[] args) {
 
 
-       ArrayList<Integer> arrayList = (ArrayList) Arrays.asList(10,15,12,11,44,55,66,77);
+       ArrayList<Integer> arrayList = (ArrayList) Arrays.asList(10,15,12,11,44,55,66,77, 88,99);
 
        for (int i: arrayList){
 
